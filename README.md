@@ -18,7 +18,7 @@ A fun Python game where the computer guesses your number.
 
 ## Requirements
 
-- Python 3.2 or higher.
+- Python 3.4 or higher.
 
 ## How to Run
 
